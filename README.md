@@ -16,6 +16,7 @@ gaiadr2.gaia_source.parallax>1
   * http://iopscience.iop.org/article/10.1086/300491/pdf
   * http://www.pas.rochester.edu/~emamajek/scocen.pdf
 * DR2 :
+  * http://sci.esa.int/gaia/60131-gaia-s-view-of-dark-interstellar-clouds/
   * https://www.cosmos.esa.int/web/gaia/image-of-the-week Milky way map within 3000 parsec of Earth 
 * wikipedia :
   * https://en.wikipedia.org/wiki/Rho_Ophiuchi_cloud_complex
