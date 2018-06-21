@@ -12,7 +12,7 @@ gaiadr2.gaia_source.parallax>1
 
 
 ## See also
-* PreGaia era :
+* Pre Gaia era : THE SCORPIUS OB2 COMPLEX
   * http://iopscience.iop.org/article/10.1086/300491/pdf
   * http://www.pas.rochester.edu/~emamajek/scocen.pdf
 * DR2 :
