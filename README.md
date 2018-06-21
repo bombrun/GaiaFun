@@ -10,5 +10,14 @@ SELECT * FROM gaiadr2.gaia_source  WHERE CONTAINS(POINT('ICRS',gaiadr2.gaia_sour
 gaiadr2.gaia_source.parallax>1
 </pre>
 
-See also [wikipedia](https://en.wikipedia.org/wiki/Rho_Ophiuchi_cloud_complex) 
+
+## See also
+* PreGaia era :
+  * http://iopscience.iop.org/article/10.1086/300491/pdf
+  * http://www.pas.rochester.edu/~emamajek/scocen.pdf
+* DR2 :
+  * https://www.cosmos.esa.int/web/gaia/image-of-the-week Milky way map within 3000 parsec of Earth 
+* wikipedia :
+  * https://en.wikipedia.org/wiki/Rho_Ophiuchi_cloud_complex
+  * https://en.wikipedia.org/wiki/Stellar_kinematics#OB_associations
 
