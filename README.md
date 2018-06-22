@@ -13,7 +13,7 @@ gaiadr2.gaia_source.parallax>1
 
 ## See also
 * Pre Gaia era : 
-  * Section 6.9 "Kinematic groups" in "Astronomical Applictions of Astrometry" by Michael Perryman, 2009
+  * Section 6 "Open clusters, groups and associations" in "Astronomical Applictions of Astrometry" by Michael Perryman, 2009
   * THE SCORPIUS OB2 COMPLEX :
        * http://iopscience.iop.org/article/10.1086/300491/pdf
        * http://www.pas.rochester.edu/~emamajek/scocen.pdf
