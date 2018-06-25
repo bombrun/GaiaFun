@@ -12,9 +12,11 @@ gaiadr2.gaia_source.parallax>1
 
 
 ## See also
-* Pre Gaia era : THE SCORPIUS OB2 COMPLEX
-  * http://iopscience.iop.org/article/10.1086/300491/pdf
-  * http://www.pas.rochester.edu/~emamajek/scocen.pdf
+* Pre Gaia era : 
+  * Section 6 "Open clusters, groups and associations" in "Astronomical Applictions of Astrometry" by Michael Perryman, 2009
+  * THE SCORPIUS OB2 COMPLEX :
+       * http://iopscience.iop.org/article/10.1086/300491/pdf
+       * http://www.pas.rochester.edu/~emamajek/scocen.pdf
 * DR2 :
   * http://sci.esa.int/gaia/60131-gaia-s-view-of-dark-interstellar-clouds/
   * https://www.cosmos.esa.int/web/gaia/image-of-the-week Milky way map within 3000 parsec of Earth 
